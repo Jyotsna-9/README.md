@@ -131,3 +131,47 @@ Scenarios differ in:
 ---
 
 ## Repository Structure
+
+---
+
+## Reproducibility
+
+To run the model:
+
+1. Install required dependencies:
+2. 
+3. Outputs will be generated in `/results`
+
+---
+
+## Limitations
+
+- Static or quasi-static modelling structure  
+- Limited representation of uncertainty  
+- Aggregated sectoral resolution  
+- Data constraints in IO–energy integration  
+
+---
+
+## Future Work
+
+Planned extensions include:
+
+- Dynamic modelling of transition pathways  
+- Integration of **hydrogen systems and sector coupling**  
+- Enhanced representation of **storage and system flexibility**  
+- Incorporation of **uncertainty and stochastic modelling approaches**  
+
+---
+
+## Author
+
+**Jyotsna Rani**  
+M.Sc. (Gold Medalist), Jamia Millia Islamia  
+
+Research focus:  
+Energy systems modelling | Integrated assessment | Decarbonisation pathways  
+
+GitHub: https://github.com/Jyotsna-9  
+
+---
